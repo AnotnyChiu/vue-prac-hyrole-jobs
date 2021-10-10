@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Poppins';
+    background-color: #ece6d9;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+}
